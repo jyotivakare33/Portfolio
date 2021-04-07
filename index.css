@@ -75,3 +75,12 @@ body {
 .first-project-row {
   display: inline-flex;
 }
+
+.skills-icons {
+  height: 150px;
+  width: 26%;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
